@@ -1,0 +1,47 @@
+{
+
+  "version": "v1",
+
+  "content": {
+
+    "messages": [
+
+      {
+
+        "type": "cards",
+
+        "elements": [
+
+          {
+
+            "title": "Dynamic Content",
+
+            "subtitle": "This card is from dynamic content",
+
+            "buttons": [
+
+              {
+
+                "type": "url",
+
+                "caption": "Try Me",
+
+                "url": "https://www.uchat.com.au",
+
+                "webview_size": "full"
+
+              }
+
+            ]
+
+          }
+
+        ]
+
+      }
+
+    ]
+
+  }
+
+}
